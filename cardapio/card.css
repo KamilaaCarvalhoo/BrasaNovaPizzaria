@@ -90,7 +90,7 @@
 
 .full-menu-section {
     padding: 80px 5%;
-    background-color: #faf8f8; /* Fundo escuro para contrastar o amarelo da seção anterior */
+    background-color: #050505; /* Fundo escuro para contrastar o amarelo da seção anterior */
     text-align: center;
 }
 
@@ -126,7 +126,7 @@
 }
 
 .menu-item-full {
-    background-color: #000;
+    background-color: #faf6f6;
     border: 2px solid #333;
     padding: 15px;
     border-radius: 10px;
